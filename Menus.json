@@ -1,0 +1,11 @@
+{
+    "Home": ["Dashboard", "Dashboard"],
+    "Search": {
+        "access": ["10"],
+        "views": [
+            ["Enter display name here 1", "View controller StoryboardID"],
+            ["Enter display name here 2", "View controller StoryboardID"],
+            ["Enter display name here 3", "View controller StoryboardID"]
+        ]
+    }
+}
